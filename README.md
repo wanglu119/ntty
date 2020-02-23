@@ -32,7 +32,7 @@ ntty提供通过远程终端操作Linux 。
 >>>使用:
 >>>
 >>>```
->>>./ntty -authToken 3d3a14754dec25b817389b3c2d36679f6c81080c6252ade3b9815a584f28e1ae
+>>>./ntty -authToken *******
 >>>```
 >>>
 >>>
@@ -53,7 +53,7 @@ ntty提供通过远程终端操作Linux 。
 >>>docker run --restart always -d --net=host --name ntty \
 >>>-v /tmp:/tmp \
 >>>wanglu119/tools:wl_ntty_latest \
->>>/code/ntty -authToken 3d3a14754dec25b817389b3c2d36679f6c81080c6252ade3b9815a584f28e1ae
+>>>/code/ntty -authToken ******
 >>>```
 >>>
 >>>
