@@ -21,13 +21,12 @@ ntty提供通过远程终端操作Linux 。
 >
 >**获取ntty**
 >
->>**云盘下载**
+>>**下载**
 >>
 >>>下载
 >>>
 >>>```
->>>链接: https://pan.baidu.com/s/1N0xo15rNDef8hlhw3Hb0qA 
->>>提取码: 31gd 
+>>>链接: https://github.com/wanglu119/ntty/releases
 >>>```
 >>>
 >>>使用:
